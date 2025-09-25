@@ -32,7 +32,7 @@ Cette application web permet la gestion complète des opérations bancaires avec
 - **OS :** Windows 10/11, macOS 10.14+, ou Linux Ubuntu 20.04+
 - **RAM :** 8 GB minimum (16 GB recommandé)
 - **Espace disque :** 10 GB libre
-- **Java JDK :** Version 11 ou supérieure
+- **Java JDK :** Version 11 
 - **Connexion Internet :** Requise pour le téléchargement des dépendances
 
 ### Logiciels requis
@@ -56,10 +56,7 @@ Cette application web permet la gestion complète des opérations bancaires avec
 ### 2️⃣ Récupération du projet
 
 ```bash
-# Cloner le repository
-git clone https://github.com/Alexandre-Ke/BUT3_QUAL_DEV_Groupe1.git
-
-# Ou télécharger depuis Arche
+# télécharger depuis Arche
 # Cours : BUT3 – R5.A.08 – Qualité Dev
 # Fichier : Code source.rar (Section 2)
 ```
