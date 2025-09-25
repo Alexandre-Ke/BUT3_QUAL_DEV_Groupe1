@@ -6,7 +6,6 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-orange.svg)](https://www.jetbrains.com/idea/)
 [![Tomcat](https://img.shields.io/badge/Server-Tomcat%209-green.svg)](https://tomcat.apache.org/)
 [![MySQL](https://img.shields.io/badge/Database-MySQL%208-blue.svg)](https://www.mysql.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📋 Description
 
